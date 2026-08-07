@@ -95,7 +95,7 @@ box-shadow:0 15px 25px rgba(0,0,0,.30);
 }
 .banner-nosotros{
 height:45vh;
-background:linear-gradient(rgba(15,61,110,.75),rgba(15,61,110,.75)),url("../oficina.jpg");
+background:linear-gradient(rgba(15,61,110,.75),rgba(15,61,110,.75)),url("oficina.jpg");
 background-size:cover;
 background-position:center;
 display:flex;
@@ -151,7 +151,7 @@ margin: 10px;
 .banner-mv{
 height:45vh;
 background:linear-gradient(rgba(15,61,110,.80),rgba(15,61,110,.80)),
-url("../tecnologia.jpg");
+url("tecnologia.jpg");
 background-size:cover;
 background-position:center;
 display:flex;
@@ -210,7 +210,7 @@ text-align:justify;
 .banner-integrantes{
 height:45vh;
 background:linear-gradient(rgba(15,61,110,.75),rgba(15,61,110,.75)),
-url("../equipo.jpg");
+url("equipo.jpg");
 background-size:cover;
 background-position:center;
 display:flex;
@@ -352,7 +352,7 @@ line-height:1.8;
 .banner-portafolio{
 height:45vh;
 background:linear-gradient(rgba(15,61,110,.80),rgba(15,61,110,.80)),
-url("../img/portafolio.jpg");
+url("portafolio.jpg");
 background-size:cover;
 background-position:center;
 display:flex;
