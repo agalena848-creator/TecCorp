@@ -37,7 +37,7 @@ color:#9FD8FF;
 }
 .hero{
 height:100vh; 
-background:url("../fondo.jpg") center center/cover;
+background:url("fondo.jpg") center center/cover;
 position:relative;
 display:flex;
 justify-content:center;
